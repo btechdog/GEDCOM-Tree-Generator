@@ -1,0 +1,11 @@
+{
+  "name": "gedcom-tree-formatter",
+  "version": "1.0.0",
+  "description": "Reads data from GEDCOM files and extracts data for the purpose of building custom family trees. Copyright 2019, Corey Buchanan, All Rights Reserved.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Corey Buchanan",
+  "license": "ISC"
+}
